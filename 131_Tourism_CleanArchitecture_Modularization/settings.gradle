@@ -1,0 +1,3 @@
+include ':cores'
+rootProject.name='Tourism App'
+include ':app'
