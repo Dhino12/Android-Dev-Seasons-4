@@ -27,57 +27,49 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d5ad40a-1e26-47ae-8ace-a6c0adaea4a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/lint/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/lint/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/lint/src/main/java/com/example/lint/MyIssueRegistry.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/lint/src/main/java/com/example/lint/NamingPatternDetector.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/androidTest/java/com/dicoding/mysimplecleanarchitecture/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/java/com/dicoding/mysimplecleanarchitecture/data/IMessageDataSource.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/java/com/dicoding/mysimplecleanarchitecture/data/MessageDataSource.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/java/com/dicoding/mysimplecleanarchitecture/data/MessageRepository.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/java/com/dicoding/mysimplecleanarchitecture/di/Injection.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/java/com/dicoding/mysimplecleanarchitecture/domain/IMessageRepository.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/java/com/dicoding/mysimplecleanarchitecture/domain/MessageEntity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/java/com/dicoding/mysimplecleanarchitecture/domain/MessageInteractor.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/java/com/dicoding/mysimplecleanarchitecture/domain/MessageUseCase.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/java/com/dicoding/mysimplecleanarchitecture/presentation/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/java/com/dicoding/mysimplecleanarchitecture/presentation/MainViewModel.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/java/com/dicoding/mysimplecleanarchitecture/presentation/MainViewModelFactory.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/test/java/com/dicoding/mysimplecleanarchitecture/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/app/src/test/java/com/dicoding/mysimplecleanarchitecture/domain/MessageUseCaseTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../136_Circle-CI_Continous-Integration/settings.gradle" beforeDir="false" />
+    <list default="true" id="6d5ad40a-1e26-47ae-8ace-a6c0adaea4a5" name="Default Changelist" comment="learn leakcanary">
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/androidTest/java/com/example/mycustomlint/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/java/com/example/mycustomlint/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/app/src/test/java/com/example/mycustomlint/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../136_Custom_Lint/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,6 +177,14 @@
       <option name="presentableId" value="Default" />
       <updated>1612619414724</updated>
     </task>
+    <task id="LOCAL-00001" summary="learn leakcanary">
+      <created>1612664279960</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612664279961</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +197,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="learn leakcanary" />
+    <option name="LAST_COMMIT_MESSAGE" value="learn leakcanary" />
   </component>
   <component name="WindowStateProjectService">
     <state x="772" y="272" width="437" height="568" key="#com.intellij.ide.util.MemberChooser" timestamp="1612619883993">
@@ -207,6 +212,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="826" y="334" width="329" height="450" key="AndroidCreateXmlResourceDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1612620359901" />
+    <state x="247" y="120" width="1478" height="878" key="DiffContextDialog" timestamp="1612664388569">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="247" y="120" width="1478" height="878" key="DiffContextDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1612664388569" />
     <state x="779" y="311" width="424" height="490" key="FileChooserDialogImpl" timestamp="1612626356049">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
@@ -227,6 +236,10 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state width="1804" height="318" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1612625727194" />
+    <state x="591" y="285" width="800" height="542" key="Vcs.Push.Dialog.v2" timestamp="1612673086326">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="285" width="800" height="542" key="Vcs.Push.Dialog.v2/72.27.1848.1053@72.27.1848.1053" timestamp="1612673086326" />
     <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1612628025088">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
