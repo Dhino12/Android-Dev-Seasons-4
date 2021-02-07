@@ -1,0 +1,2 @@
+com/example/myleakcanary/BuildConfig.java
+ com.example.myleakcanary.BuildConfig

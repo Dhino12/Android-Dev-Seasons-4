@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLeakCanary</string>
+    <string name="power_connected">Power Connected</string>
+    <string name="power_disconected">Disconnected</string>
+</resources>
