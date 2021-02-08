@@ -5,6 +5,3 @@
 ### Lottie 
 [Lottie Library](https://github.com/LottieFiles/awesome-lottie) <br>
 [Lottie Animation](https://lottiefiles.com/featured)
-
-### Shimmer
-[Shimmer Library](http://facebook.github.io/shimmer-android/)
