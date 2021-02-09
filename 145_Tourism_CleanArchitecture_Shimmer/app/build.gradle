@@ -50,4 +50,5 @@ dependencies {
     implementation project(":cores")
     implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
     implementation "com.airbnb.android:lottie:$lottie_version"
+
 }
