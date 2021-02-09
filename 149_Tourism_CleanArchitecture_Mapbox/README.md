@@ -10,5 +10,5 @@
 [Shimmer Library](https://facebook.github.io/shimmer-android/)
 
 ## Mapbox 
-[SDK Install & Library](https://docs.mapbox.com/android/maps/guides/install/)
+[SDK Install & Library](https://docs.mapbox.com/android/maps/guides/install/) <br>
 [Navigation Install & Library](https://docs.mapbox.com/android/navigation/guides/install/)
